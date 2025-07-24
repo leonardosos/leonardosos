@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Leonardo Brighenti from Italy<br><br>- 🔭 I’m working as CNC programmer<br>- 📚 I'm currently studying Digital Automation Engineering<br>- ⚡ In my free time I develop Rover</p>
+<p align="left">I'm Leonardo Brighenti from Italy<br><br>- 🔭 I’m working as CNC programmer<br>- 📚 I'm currently studying Digital Automation Engineering<br>- ⚡ In my free time I develop Rover [ProjectRed](https://github.com/Projectredunimore) </p>
 
 ###
 
