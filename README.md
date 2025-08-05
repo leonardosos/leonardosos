@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm Leonardo Brighenti from Italy<br><br>- 🔭 I’m a part-time worker as CNC programmer<br>- 📚 I'm currently studying Digital Automation Engineering<br>- ⚡ In my free time I develop Rover with <a href="https://github.com/Projectredunimore">ProjectRed</a> </p>
+<p align="left">I'm Leonardo Brighenti from Italy<br><br>- 🔭 I’m a student worker, currently part-time  as industrial programmer<br>- 📚 I'm currently studying Digital Automation Engineering<br>- ⚡ In my free time I develop Rover with <a href="https://github.com/Projectredunimore">ProjectRed</a> </p>
 
 ---
 
@@ -64,18 +64,18 @@
 
 <h3 align="left">📦 Repos:</h3>
 
-- **[Datathon-forecast](https://github.com/leonardosos/Datathon-forecast)**: _Python, Docker, Data Science_ — Datathon financial forecasting solutions.
+- **[Datathon-forecast](https://github.com/leonardosos/Datathon-forecast)**: _Python, Data Science, machine learning_ — Datathon winner solution of financial forecasting.
 
-- **[3D_Printer_Lab](https://github.com/leonardosos/3D_Printer_Lab)**: _Python, IoT, Web, Docker, GitHub Collaboration, Microservices Architecture_ — Distributed IoT system, web dashboard, and system design.
+- **[3D_Printer_Lab](https://github.com/leonardosos/3D_Printer_Lab)**: _Python, IoT, GitHub Collaboration, Microservices Architecture (Docker)_ — Distributed IoT system, web dashboard, and system design.
 
-- **[DistributedControlProject](https://github.com/leonardosos/DistributedControlProject)**: _Python, Distributed, GUI_ — Fleet control platform with real-time distributed processing.
+- **[DistributedControlProject](https://github.com/leonardosos/DistributedControlProject)**: _Python, Distributed algorithms, custom GUI_ — Fleet control platform with real-time distributed processing.
 
-- **[High_performance_computing](https://github.com/leonardosos/High_performance_computing)**: _Python, HPC, Shell_ — Advanced physical analysis using parallel computing on clusters.
+- **[High_performance_computing](https://github.com/leonardosos/High_performance_computing)**: _Python, MPI protocol, cluster job submission_ — Advanced physical analysis using parallel computing on clusters.
 
-- **[technoform4_0](https://github.com/leonardosos/technoform4_0)**: _Python, Architecture, Docker_ — Industry 4.0 software architecture and automation. (work in progress)
+- **[technoform4_0](https://github.com/leonardosos/technoform4_0)**: _Python, Docker, Data analytics_ — Industry 4.0: containerizated software for data collector, analyse and web report. (work in progress)
 
 - **[Traveling-salesman-problem](https://github.com/leonardosos/Traveling-salesman-problem)**: _Jupyter Notebook, Optimization, Heuristics_ — Heuristic and optimization approaches for the Traveling Salesman Problem with time windows.
 
-- **[Air_filter_forecast](https://github.com/leonardosos/Air_filter_forecast)**: _Jupyter Notebook, Time Series, Machine Learning_ — CO₂ forecasting using real air sensor data.
+- **[Air_filter_forecast](https://github.com/leonardosos/Air_filter_forecast)**: _Python Jupyter Notebook, Time Series forecast, Machine Learning_ — CO₂ forecasting using real air sensor data.
 
-- **[SpectroBearingsCNN](https://github.com/leonardosos/SpectroBearingsCNN)**: _Jupyter Notebook, CNN, Signal Processing_ — Convolutional neural network for vibration classification and predictive maintenance.
+- **[SpectroBearingsCNN](https://github.com/leonardosos/SpectroBearingsCNN)**: _Jupyter Notebook, CNN, deep learning, Signal Processing_ — Convolutional neural network for vibration classification and predictive maintenance.
