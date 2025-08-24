@@ -64,7 +64,7 @@
 
 <h3 align="left">📦 Repos:</h3>
 
-- **[Datathon-forecast](https://github.com/leonardosos/Datathon-forecast)**: _Python, Data Science, machine learning_ — Datathon winner solution of financial forecasting.
+- **[Datathon-forecast](https://github.com/leonardosos/Datathon_forecast)**: _Python, Data Science, machine learning_ — Datathon winner solution of financial forecasting.
 
 - **[3D_Printer_Lab](https://github.com/leonardosos/3D_Printer_Lab)**: _Python, IoT, GitHub Collaboration, Microservices Architecture (Docker)_ — Distributed IoT system, web dashboard, and system design.
 
